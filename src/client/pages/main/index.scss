@@ -1,0 +1,9 @@
+.main{
+    text-align: center;
+    &.mobile{
+        .ps__thumb-y{
+            display: none;
+        }
+    }
+
+}
